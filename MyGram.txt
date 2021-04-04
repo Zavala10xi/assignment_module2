@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Gram</title>
+</head>
+<body>
+
+<p>My Gram <button type="button">Log In</button> <button type="button">Sing Up</button></p>
+<p>Image 1 Image 2 Image 3 Image 4 Image 5</p>
+<p>About Blog Jobs Help<br>English 2021 MyGram</p>
+
+</body>
+</html>
